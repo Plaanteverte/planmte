@@ -1,16 +1,19 @@
 {
-  "sourceName": "WeTriedTLS",
-  "iconUrl": "https://wetriedtls.com/favicon.ico",
-  "author": {
-    "name": "Plaanteverte",
-    "icon": "https://github.com/Plaanteverte.png",
-    "url": "https://github.com/Plaanteverte"
-  },
-  "version": "1.0.1",
-  "language": "English",
-  "baseUrl": "https://wetriedtls.com",
-  "scriptUrl": "https://raw.githubusercontent.com/Plaanteverte/planmte/main/wetried.js",
-  "type": "novels",
-  "asyncJS": true,
-  "novel": true
+    "sourceName": "WeTriedTLS",
+    "iconUrl": "https://wetriedtls.com/favicon.ico",
+    "author": {
+        "name": "Plaanteverte",
+        "icon": "https://github.com/Plaanteverte.png",
+        "url": "https://github.com/Plaanteverte"
+    },
+    "version": "1.0.0",
+    "language": "English",
+    "streamType": "novels",
+    "quality": "N/A",
+    "baseUrl": "https://wetriedtls.com/",
+    "searchBaseUrl": "https://wetriedtls.com/query?adult=true&query_string=%s&page=1",
+    "scriptUrl": "https://raw.githubusercontent.com/Plaanteverte/planmte/main/wetried.js",
+    "type": "novels",
+    "asyncJS": true,
+    "novel": true
 }
