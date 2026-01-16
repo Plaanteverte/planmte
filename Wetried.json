@@ -9,7 +9,7 @@
   "version": "1.0.1",
   "language": "English",
   "baseUrl": "https://wetriedtls.com",
-  "scriptUrl": "https://raw.githubusercontent.com/Plaanteverte/moduletest/main/wetried.js",
+  "scriptUrl": "https://raw.githubusercontent.com/Plaanteverte/planmte/main/wetried.js",
   "type": "novels",
   "asyncJS": true,
   "novel": true
