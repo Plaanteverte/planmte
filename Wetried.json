@@ -1,0 +1,16 @@
+{
+  "sourceName": "WeTriedTLS",
+  "iconUrl": "https://wetriedtls.com/favicon.ico",
+  "author": {
+    "name": "Plaanteverte",
+    "icon": "https://github.com/Plaanteverte.png",
+    "url": "https://github.com/Plaanteverte"
+  },
+  "version": "1.0.1",
+  "language": "English",
+  "baseUrl": "https://wetriedtls.com",
+  "scriptUrl": "https://raw.githubusercontent.com/Plaanteverte/moduletest/main/wetried.js",
+  "type": "novels",
+  "asyncJS": true,
+  "novel": true
+}
